@@ -15,6 +15,7 @@
 - [ ] Decide how to handle the static files (best practices, etc)
 - [ ] Figure out how to create a new git repository as part of the cookiecutter install
 
+## What should be included
 
 - README.md
     - source tree layout
