@@ -14,3 +14,16 @@
     - Tainted data files
 - [ ] Decide how to handle the static files (best practices, etc)
 - [ ] Figure out how to create a new git repository as part of the cookiecutter install
+
+
+- README.md
+    - source tree layout
+- PROJECT.md
+    - tools and how to use them
+- pyoroject.toml
+    - standard dependencies 
+    - set entry point for main
+    - Use 'src/' layout
+- uv.lock
+- .gitignore
+
