@@ -21,6 +21,7 @@
     - source tree layout
 - PROJECT.md
     - tools and how to use them
+- CLAUDE.md
 - pyoroject.toml
     - standard dependencies 
     - set entry point for main
